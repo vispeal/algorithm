@@ -12,6 +12,8 @@ public class Practice {
 //        Sort.testHeapSort();
 //        ConsumerProducer.testConsumerProducer();
 //        MaxSubSum.testMax();
-        WeightedGraph.testGraph();
+//        WeightedGraph.testGraph();
+        GenericStack.testStack();
+//        GenericSort.test();
     }
 }
