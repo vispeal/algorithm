@@ -2,6 +2,7 @@ package basic;
 
 import graph.UnweightedGraph;
 import graph.WeightedGraph;
+import review.QuickSort;
 
 
 public class Practice {
@@ -13,7 +14,8 @@ public class Practice {
 //        ConsumerProducer.testConsumerProducer();
 //        MaxSubSum.testMax();
 //        WeightedGraph.testGraph();
-        GenericStack.testStack();
+//        GenericStack.testStack();
 //        GenericSort.test();
+        QuickSort.test();
     }
 }
